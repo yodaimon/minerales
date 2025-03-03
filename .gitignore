@@ -8,8 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-# dist - Comentado para permitir subir los archivos compilados a GitHub
-dist-ssr
+dist - Comentado para permitir subir los archivos compilados a GitHub
+# dist-ssr
 *.local
 
 # Editor directories and files
